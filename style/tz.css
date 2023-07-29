@@ -1,4 +1,3 @@
-
 html{-webkit-text-size-adjust:none;word-wrap:break-word;word-break:break-all;font-size:62.5%;}
 *{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
 body{margin:0;padding:0;color:#707070;font-size: 1.4rem;font-family: "Microsoft YaHei", Verdana, sans-serif;line-height: 1.5;outline: 0;background: #fff;}
@@ -19,14 +18,14 @@ div, h1, h2, h3, h4,h5, p, form, ul, label, input, textarea, img, span, dl, dt, 
 .pd3{padding:3px}.pd5{padding:5px}.pd10{padding:10px}.pd10-1{padding:10px 0}.pd10-2{padding:0 10px}.pd10-b{padding-bottom:10px}.pd15{padding:15px}.pd15-1{padding:15px 0}.pd15-2{padding:0 15px}.pd15-3{padding:15px 15px 0 15px}.pd20{padding:20px}.pd20-1{padding:20px 0}.pd20-2{padding:0 20px}.pd40{padding:40px 0}.pd60{padding:60px 0}
 .ta-c{text-align: center;}.ta-r{text-align: right;}
 
-.f-red{color:#6084e2}.f-wthie{color:#fff}.f-grenn{color:#164a0e}.f-yellow{color:#FF8420}.f-grenn1{color:#093}.f-gray{color:#888}.f-gray1,.f-gray1 a{color:#bbb}.f-wthie1 a{color: #fff;}.f-black{color: #333;}.f-blue{color:#11b2e6}
+.f-red{color:#ff8ca7}.f-wthie{color:#fff}.f-grenn{color:#164a0e}.f-yellow{color:#FF8420}.f-grenn1{color:#093}.f-gray{color:#888}.f-gray1,.f-gray1 a{color:#bbb}.f-wthie1 a{color: #fff;}.f-black{color: #333;}.f-blue{color:#11b2e6}
 
 
 .tx-table table{width: 100%;border-collapse: collapse;}.tx-table table th,.tx-table table td{border: 1px solid #eee;padding: 10px;overflow: hidden;text-align: center;}.tx-table table th{background: #f1f1f1;}
 
 
 
-.bg-gray{background-color:#f7f7f7}.bg-white{background-color:#fff}.bg-red{background-color:#6084e2}.bg-orange{background-color: #F7B824}.bg-green{background-color: #009688}.bg-cyan{background-color: #ff8ca7}.bg-blue{background-color:#11b2e6}.bg-black{background-color: #393D49}
+.bg-gray{background-color:#f7f7f7}.bg-white{background-color:#fff}.bg-red{background-color:#ff6888}.bg-orange{background-color: #F7B824}.bg-green{background-color: #009688}.bg-cyan{background-color: #ff8ca7}.bg-blue{background-color:#11b2e6}.bg-black{background-color: #393D49}
 
 .border{border:1px solid #eee;}.border-b{border-bottom:1px solid #eee;}.border-t{border-top:1px solid #eee;}
 .i60{line-height:20px;height:60px;overflow:hidden}.i40{line-height:20px;height:40px;overflow:hidden}.i22{line-height:22px;height:22px;overflow:hidden}.i18{line-height:18px;height:18px;overflow:hidden}.txt-ov{white-space: nowrap;overflow: hidden;text-overflow: ellipsis;}
